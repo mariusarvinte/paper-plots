@@ -15,7 +15,7 @@ xlabel   = 'x-axis'
 ylabel   = 'y-axis'
 title    = r'Title - $(\alpha, \beta, \gamma)$'
 
-# Dummy data
+# !!! Dummy data - replace with your x and y data, paired
 range_one   = range_two = range_three = np.arange(10)
 curve_one   = np.linspace(0, 10, num=10)
 curve_two   = np.sqrt(curve_one)
