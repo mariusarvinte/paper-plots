@@ -40,7 +40,7 @@ linewidth = 3.5
 colors    = distinctipy.get_colors(num_curves, colorblind_type='Tritanopia', 
                                    rng=1)
 
-# !!! Extend this beyond eight if needed
+# !!! Extend this beyond eight if needed (more than 8 curves)
 # See https://matplotlib.org/stable/api/markers_api.html 
 markers    = ['o', 's', '<', 'p', '>', '*', 'v', '^']
 markersize = 9
