@@ -1,7 +1,7 @@
 # paper-plots
 
 # Requirements
-Ubuntu 20.04+ with `texlive` package installed.
+Ubuntu 20.04+ with `texlive` and `cm-super` packages installed.
 
 `pip install matplotlib`
 
