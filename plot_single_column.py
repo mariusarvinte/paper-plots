@@ -63,6 +63,9 @@ plt.plot(range_three, curve_three,
          linewidth=linewidth, color=colors[2], linestyle='solid',
          marker=markers[2], label=legends[2], markersize=markersize)
 
+# !!! Add more curves if required
+# And increment color, marker and legend index accordingly
+
 ## Wrap-up plot
 plt.grid(visible=True)
 plt.xlabel(xlabel, fontsize=fontsize-2)
