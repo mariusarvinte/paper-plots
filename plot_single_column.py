@@ -47,7 +47,8 @@ markersize = 9
 
 ## Plot section
 fig = plt.figure(figsize=(11, 10))
-## !!! Change linestyles of each curve manually if desired
+# !!! Change linestyles of each curve manually if desired
+# See https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html
 
 # First curve
 plt.plot(range_one, curve_one,
